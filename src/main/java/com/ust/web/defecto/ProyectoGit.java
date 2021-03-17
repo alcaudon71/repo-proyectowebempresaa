@@ -10,4 +10,13 @@ public class ProyectoGit {
 	String nuevaVariable2;
 	String nuevaVariable3;
 	
+	
+	
+	public void pintarLinea() {
+		
+		System.out.println("Pintamos una linea");
+		
+	}
+	
+	
 }
