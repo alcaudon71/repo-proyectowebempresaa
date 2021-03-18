@@ -18,6 +18,8 @@ public class ProyectoGit {
 		
 		System.out.println("Pintamos otra segunda linea");
 		
+		System.out.println("Ahora toca pintar la tercera linea");
+		
 	}
 	
 	
